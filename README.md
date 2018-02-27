@@ -1,4 +1,3 @@
-# sanic
 Sanic
 =====
 
